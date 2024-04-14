@@ -1,9 +1,0 @@
-name,type
-MONTH,categorical
-OP_CARRIER_AIRLINE_ID,categorical
-ORIGIN_AIRPORT_ID,categorical
-DEST_AIRPORT_ID,categorical
-DEP_DELAY,numerical
-TAXI_OUT,numerical
-DISTANCE,numerical
-ARR_DEL15,target
